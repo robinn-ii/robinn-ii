@@ -1,4 +1,4 @@
-<table style="border: 2px solid #834E74; border-radius: 8px;">
+<table style="border: 2px solid #E1A97D; border-radius: 8px;">
   <tr>
     <td width="30%" style="padding: 20px; border-right: 2px solid #834E74;">
       <strong style="color: #834E74;">$\color{#A6B396}{\textsf{Thee}}$ $\color{#72A984}{\texttt{Jason}}$ $\color{#6BA16D}{\texttt{Todd}}$ $\color{#6BA16D}{\texttt{Of}}$ $\color{#F4F4AD}{\texttt{PonyTown:}}$<br></strong>
