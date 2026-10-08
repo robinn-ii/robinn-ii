@@ -18,10 +18,7 @@
   </td>
     <td width="50%" style="padding: 20px; text-align: center;">
       <img width="" height="" alt="img" src="https://cdn.phototourl.com/member/2026-10-08-fb231340-ad05-414f-8808-0760172ec3ba.png"
-      <br><br>
-      <strong>$\color{#362C54}{\texttt{Num 1}}$ $\color{#834E74}{\texttt{Primehood}}$ $\color{#C4C3B1}{\texttt{shipper!}}$
-<br>
-$\color{#C4C3B1}{\texttt{♡}}$
+      <br>
     </td>
   </tr>
 </table>
