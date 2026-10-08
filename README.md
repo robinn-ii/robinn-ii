@@ -2,6 +2,7 @@
 <table style="border: 2px solid #E1A97D; border-radius: 8px;">
   <tr>
     <td width="30%" style="padding: 15px; border-right: 2px solid #E1A97D;">
+      <img width="" height="" alt="IMG_0328" src="https://github.com/user-attachments/assets/4f98c5af-5cfc-49aa-8f83-01989b6f1484" />
       <strong style="color: #834E74;">$\color{#A6B396}{\textsf{Thee}}$ $\color{#72A984}{\texttt{Jason}}$ $\color{#6BA16D}{\texttt{Todd}}$ $\color{#6BA16D}{\texttt{Of}}$ $\color{#F4F4AD}{\texttt{PonyTown:}}$<br></strong>
       <a href="https://github.com/title-town">@𝘵𝘪𝘵𝘭𝘦-𝘵𝘰𝘸𝘯</a><br>
       <a href="https://github.com/pt-contributers">@𝘱𝘵-𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦𝘳𝘴</a><br>
