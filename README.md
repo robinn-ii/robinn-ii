@@ -1,6 +1,6 @@
 <img width="" height="" alt="Untitled7_20261007210256" src="https://github.com/user-attachments/assets/909ae56d-5629-4e70-a4d7-683dadc7443a" />
 <img width="" height="" alt="Untitled7_20261007204341" src="https://github.com/user-attachments/assets/e858f21d-1393-4151-b05a-a2968a8855da" />
-
+$\color{#F4F4AD}{\texttt{‎‎ . ݁⋆ ۶ৎ ݁˖ . ݁}}$
 <table style="border: 2px solid #E1A97D; border-radius: 8px;">
   <tr>
     <td width="30%" style="padding: 15px; border-right: 2px solid #E1A97D;">
