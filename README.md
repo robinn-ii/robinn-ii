@@ -1,5 +1,11 @@
+<div align="center">
 <img width="" height="" alt="Untitled7_20261007210256" src="https://github.com/user-attachments/assets/909ae56d-5629-4e70-a4d7-683dadc7443a" />
 <img width="" height="" alt="Untitled7_20261007204341" src="https://github.com/user-attachments/assets/e858f21d-1393-4151-b05a-a2968a8855da" />
+
+$\color{#A6B396}{\texttt{────۶ৎ────}}$
+
+ [![新BOOK](https://img.shields.io/badge/-新BOOK-A6B396?style=flat-square&logo=book&logoColor=black)](https://sebvsene.atabook.org) [![STRAWPAGE](https://img.shields.io/badge/-STRAWPAGE-72A984?style=flat-square&logo=book&logoColor=bat)](https://hood-net.straw.page) [![MAIN RENTRY](https://img.shields.io/badge/-RENTRY-6BA16D?style=flat-square&logo=book&logoColor=bat)](https://rentry.co/worldsgreatestvigilante) [![MATCHING](https://img.shields.io/badge/-MATCHING-6BA16D?style=flat-square&logo=book&logoColor=bat)](https://rentry.co/thejusticeIeague) [![CARRD](https://img.shields.io/badge/-CARRD-F4F4AD?style=flat-square&logo=book&logoColor=bat)](https://hood-net.carrd.co) [![PRNS.CC](https://img.shields.io/badge/-PRNS.CC-A6B396?style=flat-square&logo=book&logoColor=bat)](https://pronouns.cc/@hood-net) [![LOVEMAIL](https://img.shields.io/badge/-LOVEMAIL-72A984?style=flat-square&logo=book&logoColor=bat)](https://rentry.co/LovemailForFriends)
+[![MW.PARTNER](https://img.shields.io/badge/-MW.PARTNER-6BA16D?style=flat-square&logo=book&logoColor=black)](https://rentry.co/SebLovesAsterVeryMuch)
 <table style="border: 2px solid #E1A97D; border-radius: 8px;">
   <tr>
     <td width="30%" style="padding: 15px; border-right: 2px solid #E1A97D;">
